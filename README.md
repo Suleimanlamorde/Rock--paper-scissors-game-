@@ -33,13 +33,3 @@ You chose: rock
 Computer chose: scissors
 You win! 🎉
 ```
-
-## How to get raw file URLs (what to submit)
-After you push the files to GitHub (see instructions below), open the file on GitHub, click **Raw**, and copy the URL shown in the browser. It will look like:
-```
-https://raw.githubusercontent.com/<your-username>/<repo-name>/main/rock_paper_scissors.py
-```
-Submit that raw URL as your deliverable.
-
-## Author
-Suleiman Lamorde
