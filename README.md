@@ -1,2 +1,45 @@
-# Rock--paper-scissors-game-
-A simple python rock paper scissors game 
+# Rock, Paper, Scissors Game
+
+A simple command-line Python program that simulates a Rock, Paper, Scissors game between the user and the computer.
+
+## Files
+- `rock_paper_scissors.py` — main program (well-documented)
+- `README.md` — this file
+
+## Features
+- Defines possible choices: rock, paper, scissors
+- Gets user's choice (case-insensitive, with input validation)
+- Generates a random choice for the computer
+- Determines the winner using standard rules
+- Simple 'q' to quit
+
+## Requirements
+- Python 3.7 or newer
+
+## How to run
+1. Clone or download the repository.
+2. Run the program:
+```
+python rock_paper_scissors.py
+```
+
+## Example
+```
+=== Rock, Paper, Scissors ===
+Type 'q' anytime to quit.
+
+Enter your choice (rock/paper/scissors) or 'q' to quit: rock
+You chose: rock
+Computer chose: scissors
+You win! 🎉
+```
+
+## How to get raw file URLs (what to submit)
+After you push the files to GitHub (see instructions below), open the file on GitHub, click **Raw**, and copy the URL shown in the browser. It will look like:
+```
+https://raw.githubusercontent.com/<your-username>/<repo-name>/main/rock_paper_scissors.py
+```
+Submit that raw URL as your deliverable.
+
+## Author
+Suleiman Lamorde
